@@ -1,0 +1,4 @@
+site_name: MkDocsTest
+pages:
+- Home: README.md
+theme: readthedocs
